@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/stress-paradigm-stroop/static/css/main.f10d5d95.css",
-    "main.js": "/stress-paradigm-stroop/static/js/main.27a2c5f4.js",
+    "main.js": "/stress-paradigm-stroop/static/js/main.5ba452d3.js",
     "static/js/787.0fb8d3f3.chunk.js": "/stress-paradigm-stroop/static/js/787.0fb8d3f3.chunk.js",
     "static/media/ticki.mp3": "/stress-paradigm-stroop/static/media/ticki.21ebef7cf89aff133f19.mp3",
     "index.html": "/stress-paradigm-stroop/index.html",
     "main.f10d5d95.css.map": "/stress-paradigm-stroop/static/css/main.f10d5d95.css.map",
-    "main.27a2c5f4.js.map": "/stress-paradigm-stroop/static/js/main.27a2c5f4.js.map",
+    "main.5ba452d3.js.map": "/stress-paradigm-stroop/static/js/main.5ba452d3.js.map",
     "787.0fb8d3f3.chunk.js.map": "/stress-paradigm-stroop/static/js/787.0fb8d3f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f10d5d95.css",
-    "static/js/main.27a2c5f4.js"
+    "static/js/main.5ba452d3.js"
   ]
 }
